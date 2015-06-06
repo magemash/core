@@ -1,0 +1,4 @@
+app/code/community/MageMash/Core                                app/code/community/MageMash/Core/
+app/design/adminhtml/default/default/layout/magemash_core.xml   app/design/adminhtml/default/default/layout/magemash_core.xml
+app/design/adminhtml/default/default/template/magemash/core     app/design/adminhtml/default/default/template/magemash/core
+app/etc/modules/MageMash_Core.xml                               app/etc/modules/MageMash_Core.xml

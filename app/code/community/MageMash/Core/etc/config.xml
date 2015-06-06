@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageMash_Core>
+            <version>0.1.0</version>
+        </MageMash_Core>
+    </modules>
+    <global>
+        <blocks>
+            <magemash_core>
+                <class>MageMash_Core_Block</class>
+            </magemash_core>
+        </blocks>
+        <helpers>
+            <magemash_core>
+                <class>MageMash_Core_Helper</class>
+            </magemash_core>
+        </helpers>
+    </global>
+    <adminhtml>
+
+        <layout>
+            <updates>
+                <magemash_core>
+                    <file>magemash_core.xml</file>
+                </magemash_core>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>
